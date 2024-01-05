@@ -36,6 +36,6 @@ values are 0.99 and 0.95, which,
 
 ## Installation
 
-git clone https://github.com/your-username/masterthesis.git
+git clone https://github.com/sabinacolakovic/masterthesis.git
 cd masterthesis
 pip install -r requirements.txt
